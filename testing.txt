@@ -1,0 +1,3 @@
+ Hi We are checking the alieotech info in local 
+ Check the system archetecture and code 
+ Need to check the PGA procedure
